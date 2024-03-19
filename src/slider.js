@@ -19,7 +19,7 @@ export const products = [
     img4: "https://telegra.ph/file/f845d01a7c0b73bf4f4f2.jpg",
     img5: "https://telegra.ph/file/f845d01a7c0b73bf4f4f2.jpg",
     desc: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, omnis fuga dolore quaerat minima autem voluptatem sed molestias dolor aut reprehenderit a in eveniet possimus eos vero illo aliquam voluptas.  ",
-    btn: 'Shop Now'
+    btn: "Shop Now",
   },
   {
     id: 2,
@@ -32,7 +32,7 @@ export const products = [
     img4: "https://telegra.ph/file/8fe3193e131a8a219e681.jpg",
     img5: "https://telegra.ph/file/8fe3193e131a8a219e681.jpg",
     desc: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, omnis fuga dolore quaerat minima autem voluptatem sed molestias dolor aut reprehenderit a in eveniet possimus eos vero illo aliquam voluptas.  ",
-    btn: 'Shop Now'
+    btn: "Shop Now",
   },
   {
     id: 3,
@@ -45,7 +45,7 @@ export const products = [
     img4: "https://telegra.ph/file/140a84618ebb1cbffcaac.jpg",
     img5: "https://telegra.ph/file/140a84618ebb1cbffcaac.jpg",
     desc: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, omnis fuga dolore quaerat minima autem voluptatem sed molestias dolor aut reprehenderit a in eveniet possimus eos vero illo aliquam voluptas.  ",
-    btn: 'Shop Now'
+    btn: "Shop Now",
   },
   {
     id: 4,
@@ -58,7 +58,7 @@ export const products = [
     img4: "https://telegra.ph/file/8d1bfadc4cdb0d4e4aa33.jpg",
     img5: "https://telegra.ph/file/8d1bfadc4cdb0d4e4aa33.jpg",
     desc: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, omnis fuga dolore quaerat minima autem voluptatem sed molestias dolor aut reprehenderit a in eveniet possimus eos vero illo aliquam voluptas.  ",
-    btn: 'Shop Now'
+    btn: "Shop Now",
   },
   {
     id: 5,
@@ -71,7 +71,7 @@ export const products = [
     img4: "https://telegra.ph/file/2644c6b34c7622bb954e3.png",
     img5: "https://telegra.ph/file/2644c6b34c7622bb954e3.png",
     desc: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, omnis fuga dolore quaerat minima autem voluptatem sed molestias dolor aut reprehenderit a in eveniet possimus eos vero illo aliquam voluptas.  ",
-    btn: 'Shop Now'
+    btn: "Shop Now",
   },
   {
     id: 6,
@@ -84,7 +84,7 @@ export const products = [
     img4: "https://telegra.ph/file/210362b84786765c52c6e.jpg",
     img5: "https://telegra.ph/file/210362b84786765c52c6e.jpg",
     desc: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, omnis fuga dolore quaerat minima autem voluptatem sed molestias dolor aut reprehenderit a in eveniet possimus eos vero illo aliquam voluptas.  ",
-    btn: 'Shop Now'
+    btn: "Shop Now",
   },
   {
     id: 7,
@@ -97,7 +97,7 @@ export const products = [
     img4: "https://telegra.ph/file/f845d01a7c0b73bf4f4f2.jpg",
     img5: "https://telegra.ph/file/f845d01a7c0b73bf4f4f2.jpg",
     desc: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, omnis fuga dolore quaerat minima autem voluptatem sed molestias dolor aut reprehenderit a in eveniet possimus eos vero illo aliquam voluptas.  ",
-    btn: 'Shop Now'
+    btn: "Shop Now",
   },
   {
     id: 8,
@@ -110,7 +110,7 @@ export const products = [
     img4: "https://telegra.ph/file/8fe3193e131a8a219e681.jpg",
     img5: "https://telegra.ph/file/8fe3193e131a8a219e681.jpg",
     desc: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, omnis fuga dolore quaerat minima autem voluptatem sed molestias dolor aut reprehenderit a in eveniet possimus eos vero illo aliquam voluptas.  ",
-    btn: 'Shop Now'
+    btn: "Shop Now",
   },
   {
     id: 9,
@@ -123,7 +123,7 @@ export const products = [
     img4: "https://telegra.ph/file/140a84618ebb1cbffcaac.jpg",
     img5: "https://telegra.ph/file/140a84618ebb1cbffcaac.jpg",
     desc: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, omnis fuga dolore quaerat minima autem voluptatem sed molestias dolor aut reprehenderit a in eveniet possimus eos vero illo aliquam voluptas.  ",
-    btn: 'Shop Now'
+    btn: "Shop Now",
   },
   {
     id: 10,
@@ -136,7 +136,7 @@ export const products = [
     img4: "https://telegra.ph/file/8d1bfadc4cdb0d4e4aa33.jpg",
     img5: "https://telegra.ph/file/8d1bfadc4cdb0d4e4aa33.jpg",
     desc: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, omnis fuga dolore quaerat minima autem voluptatem sed molestias dolor aut reprehenderit a in eveniet possimus eos vero illo aliquam voluptas.  ",
-    btn: 'Shop Now'
+    btn: "Shop Now",
   },
   {
     id: 11,
@@ -149,7 +149,7 @@ export const products = [
     img4: "https://telegra.ph/file/2644c6b34c7622bb954e3.png",
     img5: "https://telegra.ph/file/2644c6b34c7622bb954e3.png",
     desc: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, omnis fuga dolore quaerat minima autem voluptatem sed molestias dolor aut reprehenderit a in eveniet possimus eos vero illo aliquam voluptas.  ",
-    btn: 'Shop Now'
+    btn: "Shop Now",
   },
   {
     id: 12,
@@ -162,6 +162,30 @@ export const products = [
     img4: "https://telegra.ph/file/210362b84786765c52c6e.jpg",
     img5: "https://telegra.ph/file/210362b84786765c52c6e.jpg",
     desc: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, omnis fuga dolore quaerat minima autem voluptatem sed molestias dolor aut reprehenderit a in eveniet possimus eos vero illo aliquam voluptas.  ",
-    btn: 'Shop Now'
+    btn: "Shop Now",
+  },
+];
+
+export const col = [
+  {
+    id: 1,
+    img: "https://telegra.ph/file/0da0f03137f3273748528.jpg",
+    uz_title: "Ayollar tarixi oyligini nishonlash",
+    ru_title: "Празднование Месяца женской истории",
+    desc: `Присоединяйтесь к нам, чтобы поддержать бренды, возглавляемые женщинами, сократить гендерный разрыв и подчеркнуть влияние женщин на построение лучшего общества.`,
+  },
+  {
+    id: 2,
+    img: "https://telegra.ph/file/725ab7ecd8026b881d8f9.png",
+    uz_title: "Hamma narsa bilan ishlaydigan 4 jinsi bolak",
+    ru_title: "4 вещи из денима, которые подойдут ко всему",
+    desc: `Присоединяйтесь к нам, чтобы поддержать бренды, возглавляемые женщинами, сократить гендерный разрыв и подчеркнуть влияние женщин на построение лучшего общества.`,
+  },
+  {
+    id: 3,
+    img: "https://telegra.ph/file/85a085c6992c548fea0be.png",
+    uz_title: "Uslubli shtapel: chiziqli kozok kiyishning 3 usuli",
+    ru_title: "Основа стиля: 3 способа носить полосатый свитер",
+    desc: `Присоединяйтесь к нам, чтобы поддержать бренды, возглавляемые женщинами, сократить гендерный разрыв и подчеркнуть влияние женщин на построение лучшего общества.`,
   },
 ];

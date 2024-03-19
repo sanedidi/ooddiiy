@@ -1,3 +1,4 @@
+import Collection from "@/components/Collection/Collection";
 import Hero from "@/components/Hero/Hero";
 import NewProducts from "@/components/NewProducts/NewProducts";
 import Head from "next/head";
@@ -13,6 +14,7 @@ export default function Home() {
       </Head>
       <Hero />
       <NewProducts />
+      <Collection />
     </>
   );
 }
