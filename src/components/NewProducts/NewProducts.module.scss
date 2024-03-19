@@ -1,0 +1,57 @@
+.newProd {
+  margin: 50px 0;
+  &__card {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 15px;
+
+    button {
+      margin-top: auto;
+    }
+  }
+  &__top {
+    // width: clamp(8.125rem, 6.273rem + 9.26vw, 14.375rem);
+    width: 100%;
+
+  }
+
+  &__btm {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 10px;
+  }
+  &__btn {
+    button {
+      width: 100%;
+    }
+  }
+  &__title {
+    font-size: 20px;
+    font-weight: 600;
+    color: black;
+  }
+  &__price {
+    font-size: 16px;
+    color: black;
+  }
+  &__btn {
+    p {
+      font-size: 12px;
+      color: #000;
+    }
+  }
+  &__main_top{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 10px;
+    margin-bottom: 10px;
+    h1{
+      font-size: 20px;
+      font-weight: 600;
+    }
+  
+  }
+}
