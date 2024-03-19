@@ -15,7 +15,7 @@ i18n
     // Стандартный язык
     fallbackLng:
     //  localStorage.getItem("i18nextLng") ||
-      "uz",
+      "ru",
     //language togillab beradi ozi
     localeDetection: false,
     debug: true,
