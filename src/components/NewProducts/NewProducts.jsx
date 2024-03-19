@@ -7,8 +7,10 @@ import { Navigation } from "swiper/modules";
 import "swiper/css/navigation";
 import Link from "next/link";
 import { useIsClient } from "usehooks-ts";
+import { useTranslation } from "react-i18next";
 const NewProducts = () => {
   const isClient = useIsClient();
+  const {t} = useTranslation()
   return (
     <section className={s.newProd}>
       {isClient && (
@@ -16,8 +18,8 @@ const NewProducts = () => {
           <div className={s.newProd__wrapper}>
             <div className={s.newProd__cards}>
               <div className={s.newProd__main_top}>
-                <h1>NEW PRODUCTS</h1>
-                <p>New markdowns on our best- <br />sellers</p>
+                <h1>{t('new')}</h1>
+                <p>{t('new1')}</p>
               </div>
               <Swiper
                 slidesPerView={2}
